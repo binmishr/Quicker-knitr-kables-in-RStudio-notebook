@@ -1,0 +1,1 @@
+# Quicker-knitr-kables-in-RStudio-notebook
